@@ -1,0 +1,7 @@
+[1734637143.143847] 64 bytes from 192.168.1.63: icmp_seq=2 ttl=128 time=0.739 ms
+[1734637144.168790] 64 bytes from 192.168.1.63: icmp_seq=3 ttl=128 time=0.660 ms
+[1734637145.192222] 64 bytes from 192.168.1.63: icmp_seq=4 ttl=128 time=0.671 ms
+
+--- 192.168.1.63 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3074ms
+rtt min/avg/max/mdev = 0.660/0.699/0.739/0.034 ms

@@ -1,0 +1,19 @@
+[1734637026.133803] 64 bytes from 192.168.1.63: icmp_seq=2 ttl=128 time=0.754 ms
+[1734637027.177951] 64 bytes from 192.168.1.63: icmp_seq=3 ttl=128 time=0.885 ms
+[1734637028.199825] 64 bytes from 192.168.1.63: icmp_seq=4 ttl=128 time=0.720 ms
+
+--- 192.168.1.63 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3067ms
+rtt min/avg/max/mdev = 0.720/0.879/1.160/0.173 ms
+
+----- Separator -----
+
+[1734637026.151150] 64 bytes from 127.0.0.1: icmp_seq=2 ttl=64 time=0.040 ms
+[1734637027.175372] 64 bytes from 127.0.0.1: icmp_seq=3 ttl=64 time=0.045 ms
+[1734637028.199232] 64 bytes from 127.0.0.1: icmp_seq=4 ttl=64 time=0.033 ms
+
+--- 127.0.0.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3068ms
+rtt min/avg/max/mdev = 0.033/0.042/0.053/0.007 ms
+PING 127.0.0.1 (127.0.0.1) 56(124) bytes of data.
+[1734637113.497607] 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.048 ms
