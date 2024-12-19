@@ -1,7 +1,7 @@
 Main objective: 
-send a ping request to one or more hosts
+Send a ping request to one or more hosts
 Note down the answer in a file
-
+-> OK
 
 Features:
 Name the file with a timestamp of when you did the test
