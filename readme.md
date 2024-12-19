@@ -8,3 +8,6 @@ Name the file with a timestamp of when you did the test
 Let it run parallel, to make it faster
 -> ok
 
+Extra features: Advanced_ping.sh
+It will use the file hosts.txt for your hostnames and write it in a file with a separator
+-> ok

@@ -1,0 +1,24 @@
+Pinging Google.com...
+PING Google.com (142.250.179.206) 56(124) bytes of data.
+[1734637892.196226] 64 bytes from ams15s42-in-f14.1e100.net (142.250.179.206): icmp_seq=1 ttl=128 time=12.3 ms
+[1734637893.184679] 64 bytes from ams15s42-in-f14.1e100.net (142.250.179.206): icmp_seq=2 ttl=128 time=12.5 ms
+[1734637894.185526] 64 bytes from ams15s42-in-f14.1e100.net (142.250.179.206): icmp_seq=3 ttl=128 time=11.5 ms
+
+--- Google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 11.543/12.119/12.468/0.410 ms
+
+----- Separator -----
+
+Pinging youtube.com...
+PING youtube.com (172.217.168.238) 56(124) bytes of data.
+[1734637894.230964] 64 bytes from ams15s40-in-f14.1e100.net (172.217.168.238): icmp_seq=1 ttl=128 time=11.9 ms
+[1734637895.218762] 64 bytes from ams15s40-in-f14.1e100.net (172.217.168.238): icmp_seq=2 ttl=128 time=12.0 ms
+[1734637896.220732] 64 bytes from ams15s40-in-f14.1e100.net (172.217.168.238): icmp_seq=3 ttl=128 time=11.9 ms
+
+--- youtube.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 11.852/11.912/12.011/0.070 ms
+
+----- Separator -----
+
